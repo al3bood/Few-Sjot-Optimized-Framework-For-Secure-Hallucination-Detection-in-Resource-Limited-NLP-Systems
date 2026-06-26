@@ -1,0 +1,125 @@
+Knowledge (K)
+
+The Eiffel Tower is a wrought-iron lattice tower located in Paris, France. It was designed by Gustave Eiffel and completed in 1889. Today, it is one of the most recognizable landmarks in the world and a major tourist attraction in France.
+
+Question (Q)
+
+Where is the Eiffel Tower located?
+
+Right Answer (RA)
+
+Paris France
+
+
+Hallucinated Answer (HA)
+
+Rome Italy
+
+-----------------------------------------------------------
+Knowledge (K)
+
+The Amazon River is the largest river by discharge volume of water in the world. It flows through South America and passes mainly through Brazil before emptying into the Atlantic Ocean.
+
+
+Question (Q)
+
+Which ocean does the Amazon River flow into?
+
+
+Right Answer (RA)
+
+Atlantic Ocean
+
+
+Hallucinated Answer (HA)
+
+Pacific Ocean
+
+-------------------------------------------------
+
+Knowledge (K)
+
+The Statue of Liberty is a large copper statue located in New York Harbor in the United States. It was a gift from France and was officially dedicated in 1886.
+
+
+Question (Q)
+
+Where is the Statue of Liberty located?
+
+
+Right Answer (RA)
+
+New York
+
+
+Hallucinated Answer (HA)
+
+Los Angeles
+
+-----------------------------------------------------------------
+Knowledge (K)
+
+Mount Everest is the highest mountain in the world. It is located in the Himalayas on the border between Nepal and China.
+
+
+Question (Q)
+
+In which mountain range is Mount Everest located?
+
+
+Right Answer (RA)
+
+Himalayan Range
+
+
+Hallucinated Answer (HA)
+
+Andes Mountains
+---------------------------------------------------------------------------------------------
+Knowledge (K)
+
+Apollo 11 was the first crewed mission to land on the Moon.
+
+The mission was launched by NASA on July 16, 1969.
+
+The spacecraft carried Neil Armstrong, Buzz Aldrin, and Michael Collins.
+
+After travelling for several days, Apollo 11 landed on the Moon on July 20, 1969.
+
+Neil Armstrong became the first human to walk on the lunar surface.
+
+Many other details about mission preparation, rocket specifications,
+communication systems, training procedures, recovery operations,
+historical background, and public reactions are also documented.
+
+Question (Q)
+
+On what date did Apollo 11 land on the Moon?
+
+Right Answer (RA)
+
+July 20, 1969
+
+----------------------------------------------------------------------------------
+Knowledge (K)
+
+
+The FIFA World Cup 2022 was held in Qatar.
+The final was played on December 18, 2022.
+Argentina defeated France on penalties.
+
+
+Question (Q)
+
+When was the 2022 FIFA World Cup final played?
+
+
+Right Answer (RA)
+
+December 18, 2022
+
+
+Hallucinated Answer (HA)
+
+
+December 30, 2022
